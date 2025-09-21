@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Vinay Technologies</h1>
 <h1 align="center">Phone Number: +91 8886196614</h1>
-<h1 align="center">Vinay Technologies is a Very Good Training Center for Learning AWS DevOps, Jenkins, Docker, Kubernetes, GitOps, ArgoCD, Terraform and Amazon Web Services</h1>
+<h1 align="center">VinayTechnologies is a Very Good Training Center for Learning AWS DevOps, Jenkins, Docker, Kubernetes, GitOps, ArgoCD, Terraform and Amazon Web Services</h1>
 
 <h1 align="center">Trainer Name: Vadla vinay chary</h1>
 
@@ -38,7 +38,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/img.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Vinay Technologies, 
+		VinayTechnologies, 
 		Gandimaisamma,
 		Hyderabad,
 		+91 8886196614 and 
@@ -52,7 +52,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Vinay Technologies - Consultant, Training and Development Center.</p>
-<p align=center><small>Copyrights 2025 by <a href="http://mithuntechnologies.com/">Vinay Technologies,Hyderabad</a> </small></p>
+<p align=center><small>Copyrights 2025 by <a href="http://mithuntechnologies.com/">VinayTechnologies,Hyderabad</a> </small></p>
 
 </body>
 </html>
