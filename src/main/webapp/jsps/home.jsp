@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Vinay Technologies</h1>
 <h1 align="center">Phone Number: +91 8886196614</h1>
-<h1 align="center">VinayTechnologies is a Very Good Training Center for Learning AWS DevOps, Jenkins, Docker, Kubernetes, GitOps, ArgoCD, Terraform and Amazon Web Services</h1>
+<h1 align="center">VinayTechnologies is a Very Good Training Center for Learning AWS DevOps, Jenkins, Docker, Kubernetes, GitOps, Ansible, Terraform and Amazon Web Services</h1>
 
 <h1 align="center">Trainer Name: Vadla vinay chary</h1>
 
