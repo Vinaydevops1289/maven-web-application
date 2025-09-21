@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Vinaydevopstechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="images/img.jpg" rel="icon">
 </head>
 </head>
 <body>
@@ -35,7 +35,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/img.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		Vinay Technologies, 
@@ -44,7 +44,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+91 8886196614 and 
 		vinay.devops1289@Gmail.com
 		<br>
-		<a href="mailto:vinay.devops1289@Gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:vinay.devops1289@Gmail.com">Mail to vinay Technologies</a>
 	</span>
 </div>
 <hr>
