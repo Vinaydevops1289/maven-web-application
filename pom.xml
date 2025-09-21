@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Vinay Technologies Releases Nexus Repository</name>
-	      <url>http://13.201.27.228:8081/Vinay Technologies/repository/maven-snapshots/</url>
+	      <url>http://13.201.27.228:8081/repository/maven-snapshots/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>vinay Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.201.27.228:8081/vinay Technologies/repository/maven-releases/</url>
+	      <url>http://13.201.27.228:8081/repository/maven-releases/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
